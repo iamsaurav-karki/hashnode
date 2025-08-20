@@ -1,9 +1,11 @@
 ---
 title: "Devopsified and Deployment of Java Micronaut Web Application into k3s kubernetes cluster with custom domain , ssl certificates and monitoring."
-seoTitle: "deployment of Java Micronaut Web Application into k3s "
+seoTitle: "deployment of Java Micronaut Web Application into k3s"
 datePublished: Fri Aug 15 2025 05:06:16 GMT+0000 (Coordinated Universal Time)
 cuid: cmecd88gq000902l2fq9zahoa
 slug: devopsified-and-deployment-of-java-micronaut-web-application-into-k3s-kubernetes-cluster-with-custom-domain-ssl-certificates-and-monitoring
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755676542805/39ce7fba-38ad-4a2c-8776-1c84cf0e8fa1.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1755676572784/47678116-46d3-4c35-b9ad-6654221e5fd6.png
 tags: deployment, kubernetes, devops, k3s, grafana
 
 ---
